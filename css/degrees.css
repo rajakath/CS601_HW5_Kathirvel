@@ -1,0 +1,81 @@
+/* Display label and data in the same line */
+.degree-info p {
+    display: flex;
+    align-items: center;
+  }
+
+  /* set the degree label style */  
+  .degree-label {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: #333;
+    min-width: 180px; 
+  }
+  
+  /*  display data text style  */
+  .degree-data {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #555;
+  }
+/*  result style  */
+#result {
+    background-color: lightblue;
+    padding: 5px;
+    border: 1px solid blue;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: black;  
+}
+
+  /*  paragraph display style  */
+  .degree-card {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-height: 220px;
+    
+  }    
+  
+  /* type display text style  */
+  .degree-type {
+    color: #888;
+    font-style: italic;
+  }
+  
+  /* year display text style  */
+  .degree-year {
+    color: #888;
+    font-size: 14px;
+  }
+  
+  /* degree card mouse hover style  */
+  .degree-card:hover {
+    background-color: skyblue;
+    border-color: orange;
+  }
+
+  /* fetch button style  */
+  #fetchButton {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+/*  h1 style  */
+h1 {
+    font-size: 24px;
+    color: navy;
+    margin-bottom: 20px;
+    text-align: center;
+}
+  

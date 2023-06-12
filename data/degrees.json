@@ -1,0 +1,31 @@
+{
+  "degrees": [
+      {
+          "degree": {
+              "school": "Bharathidasan University, India",
+              "program": "Mathematics",
+              "type": "BS",
+              "year": "1999"            
+          }
+      },
+      {
+          "degree": {
+              "school": "Manonmaniam Sundaranar University, India",
+              "program": "Information Technology",
+              "type": "MS",
+              "year": "2002"
+          
+          }
+      },
+
+      {
+          "degree": {
+              "school": "Boston University, USA",
+              "program": "Computer Information Systems",
+              "type": "MS",
+              "year": "2024"
+          
+          }
+      }  
+  ]
+}
